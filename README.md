@@ -15,6 +15,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## Connect With Me
 
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [linkedin]: https://www.linkedin.com/in/jeremiah-rojas-2425532b3
 
 <!--
