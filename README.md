@@ -1,6 +1,6 @@
 # Jeremiah Rojas' IT and Cybersecurity Project Portfolio
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am a student committed to learning how to use different tools and skills that make me a more effective cybersecurity professional. These vulnerability management and threat hunting  projects have allowed me to better understand the hands-on application of system hardening thus reducing the attack surface through platforms like Microsoft Sentinel and Nessus. Click on the links below to view my remediation efforts.
 
 
 ## Vulnerability Management
