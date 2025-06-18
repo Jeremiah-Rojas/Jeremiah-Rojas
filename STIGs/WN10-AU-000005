@@ -1,0 +1,5 @@
+** STIG ID: WN10-AU-000005
+Description: The system must be configured to audit Account Logon - Credential Validation failures. This STIG ensures that logon failures should be logged and recorded for security purposes.
+
+**Remediation**
+1. Open up the Group Policy editor and Navigate to Computer Configuration >> Windows Settings >> Security Settings.
