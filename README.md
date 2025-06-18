@@ -11,6 +11,10 @@ I am a student committed to learning how to use different tools and skills that 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Jeremiah-Rojas/Threat-Hunting)**
 
+## STIG Compliance
+
+- **[STIG Remediation](https://github.com/Jeremiah-Rojas/Threat-Hunting)**
+
 <hr/>
 
 ## Connect With Me
