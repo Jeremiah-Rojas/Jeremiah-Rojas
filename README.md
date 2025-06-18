@@ -13,7 +13,7 @@ I am a student committed to learning how to use different tools and skills that 
 
 ## STIG Compliance
 
-- **[STIG Remediation](https://github.com/Jeremiah-Rojas/Threat-Hunting)**
+- **[STIG Remediation](https://github.com/Jeremiah-Rojas/Jeremiah-Rojas/tree/main/STIGs)**
 
 <hr/>
 
