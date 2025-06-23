@@ -10,6 +10,7 @@ I am a student committed to learning how to use different tools and skills that 
 ## Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/Jeremiah-Rojas/Threat-Hunting)**
+- **[Detecting Malicious Script]**
 
 ## STIG Compliance
 
