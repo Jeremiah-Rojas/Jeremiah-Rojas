@@ -6,6 +6,7 @@ I am a student committed to learning how to use different tools and skills that 
 ## Vulnerability Management
 
 - **[Vulnerability Management Program Implementation](https://github.com/Jeremiah-Rojas/Vulnerability-Management)**
+- **[Vulnerability Remediation](https://github.com/Jeremiah-Rojas/Vulnerability-Management)**
 
 ## Threat Hunting and Security Operations
 
