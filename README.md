@@ -7,7 +7,7 @@ I am a student committed to learning how to use different tools and skills that 
 
 - **[Vulnerability Management Program Implementation](https://github.com/Jeremiah-Rojas/Vulnerability-Management) (Windows)**
 - **[Vulnerability Remediation](https://github.com/Jeremiah-Rojas/Vulnerability-Remediation) (Windows)**
-- **[Vulnerability Remediation](https://github.com/Jeremiah-Rojas/Vulnerability-Remediation) (Linux)**
+- **[Vulnerability Remediation](https://github.com/Jeremiah-Rojas/Vulnerability-Remediation-Linux-) (Linux)**
 
 ## Threat Hunting and Security Operations
 
