@@ -15,6 +15,7 @@ I am a student committed to learning how to use different tools and skills that 
 
 - **[Tor Browser Usage](https://github.com/Jeremiah-Rojas/Threat-Hunting)**
 - **[Detecting Malicious Script](https://github.com/Jeremiah-Rojas/Malicious-Script)**
+- **[Compromised Admin]()**
 
 ## STIG Compliance
 
