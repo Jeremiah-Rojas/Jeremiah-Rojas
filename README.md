@@ -22,6 +22,10 @@ I am a student committed to learning how to use different tools and skills that 
 
 - **[STIG Remediation](https://github.com/Jeremiah-Rojas/Jeremiah-Rojas/tree/main/STIGs)**
 - **[DISA Microsoft Windows 10 STIG v3r4 Compliance](https://github.com/Jeremiah-Rojas/DISA-Microsoft-Windows-10-STIG-v3r4-Compliance)**
+
+## Python Scripting
+- **[Basic Reconnaissance](https://github.com/Jeremiah-Rojas/Vulnerability-Management)**
+
 <hr/>
 
 ## Connect With Me
