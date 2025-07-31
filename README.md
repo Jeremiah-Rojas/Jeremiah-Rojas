@@ -24,7 +24,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[DISA Microsoft Windows 10 STIG v3r4 Compliance](https://github.com/Jeremiah-Rojas/DISA-Microsoft-Windows-10-STIG-v3r4-Compliance)**
 
 ## Python Scripting
-- **[Basic Reconnaissance](https://github.com/Jeremiah-Rojas/Vulnerability-Management)**
+- **[Basic Reconnaissance](https://github.com/Jeremiah-Rojas/python)**
 
 <hr/>
 
