@@ -17,6 +17,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Detecting Malicious Script](https://github.com/Jeremiah-Rojas/Malicious-Script)**
 - **[Compromised Admin](https://github.com/Jeremiah-Rojas/compromised-admin)**
 - **[Credential Harvesting](https://github.com/Jeremiah-Rojas/Credential-Harvesting/blob/main/README.md)**
+- **[Unusual Activity](https://github.com/Jeremiah-Rojas/Unusual-Activity/blob/main/README.md)**
 
 ## STIG Compliance
 
