@@ -18,7 +18,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Compromised Admin](https://github.com/Jeremiah-Rojas/compromised-admin)**
 - **[Credential Harvesting](https://github.com/Jeremiah-Rojas/Credential-Harvesting/blob/main/README.md)**
 - **[Unusual Activity](https://github.com/Jeremiah-Rojas/Unusual-Activity/blob/main/README.md)**
-- **[Disgruntled Employee]()**
+- **[Disgruntled Employee](https://github.com/Jeremiah-Rojas/Disgruntled-Employee/blob/main/README.md)**
 
 ## STIG Compliance
 
