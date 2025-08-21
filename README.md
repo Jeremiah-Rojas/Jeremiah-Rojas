@@ -30,6 +30,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[File Search](https://github.com/Jeremiah-Rojas/python/blob/main/file_search.py)**
 - **[Signing In](https://github.com/Jeremiah-Rojas/python/blob/main/sign_in.py)**
 - **[Face Detection](https://github.com/Jeremiah-Rojas/python/tree/main/Face_Detection)**
+- **[Web Scraper]()**
 
 <hr/>
 
