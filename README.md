@@ -32,6 +32,8 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Face Detection](https://github.com/Jeremiah-Rojas/python/tree/main/Face_Detection)**
 - **[Web Scraper](https://github.com/Jeremiah-Rojas/python/blob/main/Web_Scraper.py)**
 
+## Network Automation
+- **[Basic Network Topology](https://github.com/Jeremiah-Rojas/python/blob/main/reconnaissance.py)**
 <hr/>
 
 ## Connect With Me
