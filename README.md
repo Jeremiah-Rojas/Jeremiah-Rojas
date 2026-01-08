@@ -33,7 +33,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Web Scraper](https://github.com/Jeremiah-Rojas/python/blob/main/Web_Scraper.py)**
 
 ## Network Automation
-- **[Basic Network Topology](https://github.com/Jeremiah-Rojas/python/blob/main/reconnaissance.py)**
+- **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network)**
 <hr/>
 
 ## Connect With Me
