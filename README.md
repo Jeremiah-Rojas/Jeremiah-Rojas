@@ -35,6 +35,7 @@ I am a student committed to learning how to use different tools and skills that 
 ## Network Automation
 - **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network)**
 - **[VLAN-Automation](https://github.com/Jeremiah-Rojas/VLAN-Automation)**
+- **[Internet-Access](https://github.com/Jeremiah-Rojas/Internet-Access)**
 <hr/>
 
 ## Connect With Me
