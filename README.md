@@ -32,7 +32,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Face Detection](https://github.com/Jeremiah-Rojas/python/tree/main/Face_Detection)**
 - **[Web Scraper](https://github.com/Jeremiah-Rojas/python/blob/main/Web_Scraper.py)**
 
-## Network Automation
+## Network Automation and Engineering
 - **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network)**
 - **[VLAN-Automation](https://github.com/Jeremiah-Rojas/VLAN-Automation)**
 - **[Internet-Access](https://github.com/Jeremiah-Rojas/Internet-Access)**
