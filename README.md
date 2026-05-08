@@ -33,10 +33,10 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Web Scraper](https://github.com/Jeremiah-Rojas/python/blob/main/Web_Scraper.py)**
 
 ## Network Automation and Engineering
-- **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network)**
-- **[VLAN-Automation](https://github.com/Jeremiah-Rojas/VLAN-Automation)**
-- **[Internet-Access](https://github.com/Jeremiah-Rojas/Internet-Access)**
-- **[ACL-Creation](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file)**
+- **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network) (python)**
+- **[VLAN-Automation](https://github.com/Jeremiah-Rojas/VLAN-Automation) (python)**
+- **[Internet-Access](https://github.com/Jeremiah-Rojas/Internet-Access) (python)**
+- **[ACL-Creation](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file) (python)**
 <hr/>
 
 ## Connect With Me
