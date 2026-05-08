@@ -37,6 +37,9 @@ I am a student committed to learning how to use different tools and skills that 
 - **[VLAN-Automation](https://github.com/Jeremiah-Rojas/VLAN-Automation) (python)**
 - **[Internet-Access](https://github.com/Jeremiah-Rojas/Internet-Access) (python)**
 - **[ACL-Creation](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file) (python)**
+
+- **[(STP) Spanning Tree Protocol](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file)**
+- **[(OSPF) Open Shortest Path First](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file)**
 <hr/>
 
 ## Connect With Me
