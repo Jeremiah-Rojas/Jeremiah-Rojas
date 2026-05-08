@@ -38,7 +38,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Internet-Access](https://github.com/Jeremiah-Rojas/Internet-Access) (python)**
 - **[ACL-Creation](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file) (python)**
 
-- **[(STP) Spanning Tree Protocol](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file)**
+- **[(STP) Spanning Tree Protocol](https://github.com/Jeremiah-Rojas/STP/blob/main/README.md)**
 - **[(OSPF) Open Shortest Path First](https://github.com/Jeremiah-Rojas/ACL-Creation?tab=readme-ov-file)**
 <hr/>
 
