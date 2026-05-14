@@ -42,7 +42,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[(OSPF) Open Shortest Path First](https://github.com/Jeremiah-Rojas/OSPF/blob/main/README.md)**
 - **[(BGP) Border Getway Protocol](https://github.com/Jeremiah-Rojas/BGP/blob/main/README.md)**
 - **[(EIGRP) Enhanced Interior Gateway Routing Protocol](https://github.com/Jeremiah-Rojas/EIGRP/blob/main/README.md)**
-- **[(IS-IS) Intermediate System to Intermediate System](https://github.com/Jeremiah-Rojas/EIGRP/blob/main/README.md)**
+- **[(IS-IS) Intermediate System to Intermediate System](https://github.com/Jeremiah-Rojas/IS-IS/blob/main/README.md)**
 <hr/>
 
 ## Connect With Me
