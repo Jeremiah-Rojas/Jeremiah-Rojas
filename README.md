@@ -33,7 +33,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Web Scraper](https://github.com/Jeremiah-Rojas/python/blob/main/Web_Scraper.py)**
 
 ## AI Automation
-- **[Log Risk Assessment](https://github.com/Jeremiah-Rojas/basic-network)**
+- **[Log Risk Assessment](https://github.com/Jeremiah-Rojas/Log-Risk-Assessment)**
 
 ## Network Automation and Engineering
 - **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network) (python)**
