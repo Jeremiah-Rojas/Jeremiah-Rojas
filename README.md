@@ -34,6 +34,7 @@ I am a student committed to learning how to use different tools and skills that 
 
 ## AI Automation
 - **[Log Risk Assessment](https://github.com/Jeremiah-Rojas/Log-Risk-Assessment)**
+- **[Malware Alert/Detection]()**
 
 ## Network Automation and Engineering
 - **[Basic Network Topology](https://github.com/Jeremiah-Rojas/basic-network) (python)**
