@@ -33,6 +33,7 @@ I am a student committed to learning how to use different tools and skills that 
 - **[Web Scraper](https://github.com/Jeremiah-Rojas/python/blob/main/Web_Scraper.py)**
 
 ## AI Automation
+- **[Network-AI-Agent](https://github.com/Jeremiah-Rojas/RAG-System)**
 - **[RAG System](https://github.com/Jeremiah-Rojas/RAG-System)**
 - **[Log Risk Assessment](https://github.com/Jeremiah-Rojas/Log-Risk-Assessment)**
 - **[Malware Alert/Detection](https://github.com/Jeremiah-Rojas/Malware_Detection)**
